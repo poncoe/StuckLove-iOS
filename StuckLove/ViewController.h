@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  StuckLove
+//
+//  Created by Poncoe on 2/14/15.
+//  Copyright (c) 2015 Dreamcode. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+
+@end
+
